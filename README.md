@@ -33,7 +33,7 @@
   <img align="left" alt="Hardik's Codeforces" width="28px" src="./pngs/codeforces.png" />
 </a>
 <a href="https://leetcode.com/harryy_0112/">
-  <img align="left" alt="Hardik's Leetcode" width="28px" src="./svgs/leetcode.svg" />
+  <img align="left" alt="Hardik's Leetcode" width="28px" src="./pngs/leetcode.png" />
 <br/>
 
 <br/>
