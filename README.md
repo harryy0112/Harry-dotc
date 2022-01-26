@@ -42,7 +42,7 @@
 <img align="left" alt="Hardik's C++" width="28px" src="./svgs/c.svg" />
 <img align="left" alt="Hardik's vs" width="28px" src="./svgs/vs.svg" />
 <img align="left" alt="Hardik's HTML" width="28px" src="./svgs/HTML.svg" />
-<img align="left" alt="Hardik's CSS" width="28px" src="./svgs/CSS.svg" />
+<img align="left" alt="Hardik's CSS" width="28px" src="./pngs/CSS.png" />
 <img align="left" alt="Hardik's JS" width="28px" src="./pngs/js.png" />
 <img align="left" alt="Hardik's React" width="28px" src="./svgs/react.svg" />
 <img align="left" alt="Hardik's Node" width="28px" src="./pngs/node.png" />
