@@ -78,6 +78,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harry-dotc)](https://git.io/streak-stats)
 
+<h2>⚡ Github Contributions :bullseye:</h2>
+
+[![Hardik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harry-dotc&theme=xcode)](https://git.io/Harry-dotc)
+
 <!--
 **Harry-dotc/Harry-dotc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -91,7 +95,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
 
 <!--
 **Harry-dotc/Harry-dotc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
