@@ -69,7 +69,6 @@
 <h2>👯 Visitor's count :eyes:</h2>
 
 <p><img src="https://profile-counter.glitch.me/%7BHarry-dotc%7D/count.svg" alt="Hardik's :: Visitor's Count" /></p>
-<br/>
 
 <h2>⚡ Top langs :tongue:</h2>
 
