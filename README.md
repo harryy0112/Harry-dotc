@@ -64,7 +64,7 @@
 
 <h2>⚡ Github Stats :tongue:</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khareyash05&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-dotc&show_icons=true)
 <br/>
 <br/>
 <br/>
