@@ -65,7 +65,8 @@
 
 <h2>⚡ Github Stats :tongue:</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-dotc&show_icons=true)
+<a href="https://github.com/Harry-dotc">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-dotc&show_icons=true&theme=nord&line_height=27" alt="Hardik's github stats"/>
 <br/>
 <br/>
 
@@ -75,7 +76,7 @@
 
 <h2>⚡ Top langs :tongue:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-dotc)
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-dotc&langs_count=10&theme=nord&layout=compact" alt="Hardik's :: Top Langs" /></p>
 
 <h2> Streaks :tongue:</h2>
 
