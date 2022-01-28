@@ -62,8 +62,9 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Harry-dotc">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-dotc&show_icons=true&theme=gotham&line_height=27" alt="Hardik's github stats"/>
+<h2>⚡ Github Stats :tongue:</h2>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khareyash05&show_icons=true)
 <br/>
 <br/>
 <br/>
@@ -74,7 +75,7 @@
 
 <h2>⚡ Top langs :tongue:</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-dotc&langs_count=10&theme=tokyonight&layout=compact" alt="Hardik's :: Top Langs" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-dotc)
 
 <!--
 **Harry-dotc/Harry-dotc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
