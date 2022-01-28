@@ -74,6 +74,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-dotc)
 
+<h2>👯 Visitor's count :eyes:</h2>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harry-dotc)](https://git.io/streak-stats)
+
 <!--
 **Harry-dotc/Harry-dotc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
