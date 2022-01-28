@@ -74,7 +74,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-dotc)
 
-<h2>👯 Visitor's count :eyes:</h2>
+<h2> Streaks :tongue:</h2>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harry-dotc)](https://git.io/streak-stats)
 
