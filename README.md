@@ -12,6 +12,9 @@
 <a href="https://www.instagram.com/x.hardik.xx/">
   <img align="left" alt="Hardik's Instagram" width="28px" src="./svgs/instagram.svg" />
 </a>
+
+[![Gmail Badge](https://img.shields.io/badge/-agarwalhardik562@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwalhardik562@gmail.com)](mailto:agarwalhardik562@gmail.com)
+
 <br/>
 
 <h3>🔭 Have a look at my work 👇</h3>
