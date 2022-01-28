@@ -79,11 +79,11 @@
 
 <h2> Streaks :tongue:</h2>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harry-dotc)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harry-dotc&theme=jolly&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <h2>⚡ Github Contributions :tongue:</h2>
 
-[![Hardik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harry-dotc&theme=xcode)](https://git.io/Harry-dotc)
+[![Hardik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harry-dotc&theme=nord)](https://git.io/Harry-dotc)
 
 <!--
 **Harry-dotc/Harry-dotc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
