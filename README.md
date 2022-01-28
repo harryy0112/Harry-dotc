@@ -43,13 +43,16 @@
 
 <h2> ✔️ Tools and Techs Used by me 👇</h2>
 <img align="left" alt="Hardik's C++" width="28px" src="./svgs/c.svg" />
+ <img src = "https://img.icons8.com/dusk/2x/python.png" width="60px"/>
 <img align="left" alt="Hardik's vs" width="28px" src="./svgs/vs.svg" />
+<img src="https://img.icons8.com/color/64/000000/git.png"/>
 <img align="left" alt="Hardik's HTML" width="28px" src="./svgs/HTML.svg" />
 <img align="left" alt="Hardik's CSS" width="28px" src="./pngs/CSS3.svg.png" />
 <img align="left" alt="Hardik's JS" width="28px" src="./pngs/js.png" />
+ <!-- <img src="https://img.icons8.com/color/64/000000/typescript.png"/> -->
 <img align="left" alt="Hardik's React" width="28px" src="./svgs/react.svg" />
 <img align="left" alt="Hardik's Node" width="28px" src="./pngs/node.png" />
-<img align="left" alt="Hardik's MongoDB" width="28px" src="./pngs/mongodb.png" />
+<img src = "https://img.icons8.com/color/2x/mongodb.png" width="60px"/>
 <img align="left" alt="Hardik's Firebase" width="28px" src="./pngs/firebase.png" />
 <!-- <img align="left" alt="Hardik's Angular" width="28px" src="./svgs/angular.svg" /> -->
 <!-- <img align="left" alt="Hardik's Flutter" width="28px" src="./pngs/flutter.png" /> -->
@@ -78,7 +81,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harry-dotc)](https://git.io/streak-stats)
 
-<h2>⚡ Github Contributions :bullseye:</h2>
+<h2>⚡ Github Contributions :tongue:</h2>
 
 [![Hardik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harry-dotc&theme=xcode)](https://git.io/Harry-dotc)
 
