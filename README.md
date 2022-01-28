@@ -70,19 +70,19 @@
 <br/>
 <br/>
 
-<h2>👯 Visitor's count :eyes:</h2>
+<h2>👯 Visitor's count 👇</h2>
 
 <p><img src="https://profile-counter.glitch.me/%7BHarry-dotc%7D/count.svg" alt="Hardik's :: Visitor's Count" /></p>
 
-<h2>⚡ Top langs :tongue:</h2>
+<h2>⚡ Top langs 👇</h2>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-dotc&langs_count=10&theme=nord&layout=compact" alt="Hardik's :: Top Langs" /></p>
 
-<h2> Streaks :tongue:</h2>
+<h2> Streaks 👇</h2>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harry-dotc&theme=nord&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<h2>⚡ Github Contributions :tongue:</h2>
+<h2>⚡ Github Contributions 👇</h2>
 
 [![Hardik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harry-dotc&theme=nord)](https://git.io/Harry-dotc)
 
