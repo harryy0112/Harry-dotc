@@ -59,19 +59,18 @@
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
 
 <h2>⚡ Github Stats :tongue:</h2>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Harry-dotc&show_icons=true)
 <br/>
 <br/>
-<br/>
 
 <h2>👯 Visitor's count :eyes:</h2>
 
 <p><img src="https://profile-counter.glitch.me/%7BHarry-dotc%7D/count.svg" alt="Hardik's :: Visitor's Count" /></p>
+<br/>
+<br/>
 
 <h2>⚡ Top langs :tongue:</h2>
 
