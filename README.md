@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey there, I'm Hardik <img src="./gif/Hi.gif" width="30px"></h1>
 <h3 align="center">A Passionate Developer 👨‍💻 | Programmer 👨‍💻 | Designer 👨‍🎨</h3>
-<img src = "./pngs/banner.png" style="max-width:100%;"/>
+<img src = "./pngs/Banner.png" style="max-width:100%;"/>
 <h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/hardik-agarwal-9745ba197/">
   <img align="left" alt="Hardik's Linkedin" width="28px" src="./svgs/linkedin.svg" />
