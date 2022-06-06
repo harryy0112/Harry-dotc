@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 -->
-<h1 align="center">Hey there, I'm Hardik <img src="./gif/Hi.gif" width="30px"></h1>
+<h1 align="center">Hey there, I'm Hardik <img src="./gif/Hi.gif" height="30px" width="30px"></h1>
 <h3 align="center">A Passionate Developer 👨‍💻 | Programmer 👨‍💻 | Designer 👨‍🎨</h3>
 <img src = "./pngs/Banner.png" style="max-width:100%;"/>
 <h3>📫 Lets Connect 🤝</h3>
