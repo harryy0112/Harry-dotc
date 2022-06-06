@@ -24,7 +24,6 @@
 <!-- <a href="https://www.behance.net/hardikagarwal4">
   <img alt="Hardik's Behance" width="28px" src="./svgs/behance.svg" />
 </a> -->
-<br/>
 <h3>🌱 Have a look at my coding profiles 👇</h3>
 <a href="https://www.hackerrank.com/agarwalhardik562">
   <img align="left" alt="Hardik's Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
@@ -37,8 +36,6 @@
 </a>
 <a href="https://leetcode.com/harryy_0112/">
   <img align="left" alt="Hardik's Leetcode" width="28px" src="./pngs/leetCode.png" />
-<br/>
-
 <br/>
 
 <h2> ✔️ Tools and Techs Used by me 👇</h2>
