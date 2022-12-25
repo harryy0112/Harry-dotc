@@ -57,9 +57,7 @@
 <!-- <img align="left" alt="Hardik's CSS" width="28px" src="./svgs/clion.svg" /> -->
 
 <br/>
-<br/>
-<br/>
-
+  
 <h2>⚡ Github Stats :tongue:</h2>
 
 <a href="https://github.com/Harry-dotc">
