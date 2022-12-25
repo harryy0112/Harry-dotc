@@ -15,7 +15,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-agarwalhardik562@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwalhardik562@gmail.com)](mailto:agarwalhardik562@gmail.com)
 
-<br/>
+<!-- <br/> -->
 
 <h3>🔭 Have a look at my work 👇</h3>
 <a href="https://github.com/Harry-dotc">
