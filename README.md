@@ -25,13 +25,13 @@
   <img alt="Hardik's Behance" width="28px" src="./svgs/behance.svg" />
 </a> -->
 <h3>🌱 Have a look at my coding profiles 👇</h3>
-<a href="https://www.hackerrank.com/agarwalhardik562">
+<a href="https://www.hackerrank.com/harryy_0112">
   <img align="left" alt="Hardik's Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
 </a>
 <a href="https://www.codechef.com/users/harryy_0112">
   <img align="left" alt="Hardik's Codechef" width="28px" src="./pngs/codechef.png" />
 </a>
-<a href="https://codeforces.com/profile/harrydotin">
+<a href="https://codeforces.com/profile/Arcturus">
   <img align="left" alt="Hardik's Codeforces" width="28px" src="./pngs/codeforces.png" />
 </a>
 <a href="https://leetcode.com/harryy_0112/">
