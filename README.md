@@ -49,7 +49,7 @@
  <!-- <img src="https://img.icons8.com/color/64/000000/typescript.png"/> -->
 <img align="left" alt="Hardik's React" width="28px" src="./svgs/react.svg" />
 <img align="left" alt="Hardik's Node" width="28px" src="./pngs/node.png" />
-<img src = "https://img.icons8.com/color/2x/mongodb.png" width="50px"/>
+<img src = "https://img.icons8.com/color/2x/mongodb.png" width="30px"/>
 <img align="left" alt="Hardik's Firebase" width="28px" src="./pngs/firebase.png" />
 <!-- <img align="left" alt="Hardik's Angular" width="28px" src="./svgs/angular.svg" /> -->
 <!-- <img align="left" alt="Hardik's Flutter" width="28px" src="./pngs/flutter.png" /> -->
