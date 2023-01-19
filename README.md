@@ -52,8 +52,6 @@
 <img src = "https://img.icons8.com/color/2x/mongodb.png" width="35px"/>
 <img align="left" alt="Hardik's Firebase" width="28px" src="./pngs/firebase.png" />
 <!-- <img align="left" alt="Hardik's Angular" width="28px" src="./svgs/angular.svg" /> -->
-<!-- <img align="left" alt="Hardik's Flutter" width="28px" src="./pngs/flutter.png" /> -->
-<!-- <img align="left" alt="Hardik's Dart" width="28px" src="./svgs/dart.svg" /> -->
 <!-- <img align="left" alt="Hardik's CSS" width="28px" src="./svgs/clion.svg" /> -->
 
 <br/>
