@@ -48,11 +48,6 @@
 <img align="left" alt="Hardik's Node" width="28px" src="./pngs/node.png" />
 <img src = "https://img.icons8.com/color/2x/mongodb.png" width="35px"/>
 <img align="left" alt="Hardik's Firebase" width="28px" src="./pngs/firebase.png" />
-<<<<<<< HEAD
-=======
-<!-- <img align="left" alt="Hardik's Angular" width="28px" src="./svgs/angular.svg" /> -->
-<!-- <img align="left" alt="Hardik's CSS" width="28px" src="./svgs/clion.svg" /> -->
->>>>>>> 3ddfc1964ce5de200ef101e277306d4e393eb820
 
 <br/>
   
