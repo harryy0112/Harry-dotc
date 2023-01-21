@@ -74,7 +74,7 @@
 
 <h2>⚡ Github Contributions 👇</h2>
 
-[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harryy0112&theme=radical)](https://github.com/harryy0112/github-readme-activity-graph)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harryy0112&theme=dracula)](https://github.com/harryy0112/github-readme-activity-graph)
 
 <!--
 **harryy0112/harryy0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
