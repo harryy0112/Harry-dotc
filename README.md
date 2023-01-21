@@ -66,7 +66,7 @@
 
 <h2>⚡ Top langs 👇</h2>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&langs_count=10&theme=nord&layout=compact" alt="Hardik's :: Top Langs" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&langs_count=8)](https://github.com/harryy0112/github-readme-stats)
 
 <h2> Streaks 👇</h2>
 
