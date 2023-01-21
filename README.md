@@ -58,8 +58,6 @@
 <h2>⚡ Github Stats :tongue:</h2>
 
 ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=radical)
-
-<br/>
 <br/>
 
 <h2>👯 Visitor's count 👇</h2>
