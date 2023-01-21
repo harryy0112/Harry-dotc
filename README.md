@@ -4,14 +4,16 @@
 <!-- <img src = "./pngs/Banner.png" style="max-width:100%;"/> -->
 <h3>📫 Lets Connect 🤝</h3>
 <a href="https://www.linkedin.com/in/harryy0112/">
-  <img align="left" alt="Hardik's Linkedin" width="28px" src="./svgs/linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/harryy0112/">
-  <img align="left" alt="Hardik's Facebook" width="28px" src="./svgs/facebook.svg" />
-</a>
+  <img alt="guilyx's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/57393186/151711211-5c29f763-d28a-4b7a-a741-1f8c0dd2fe0e.png" />
+</a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/x.hardik.xx/">
-  <img align="left" alt="Hardik's Instagram" width="28px" src="./svgs/instagram.svg" />
-</a>
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/harryy0112/">
+  <img alt="guilyx's Instagram" width="50px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
+</a>&nbsp;&nbsp;
+ <a href="https://twitter.com/ItsHardikkA">
+  <img alt="Hardik's Twitter" width="50px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
 
 [![Gmail Badge](https://img.shields.io/badge/-agarwalhardik562@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwalhardik562@gmail.com)](mailto:agarwalhardik562@gmail.com)
 
