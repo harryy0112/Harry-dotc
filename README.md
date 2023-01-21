@@ -47,7 +47,7 @@
 <img src = "https://img.icons8.com/plasticine/2x/react.png" width="60px"/>
 <img alt="Node.js" width="60px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 <img src = "https://img.icons8.com/color/2x/mongodb.png" width="60px"/>
-<img align="left" alt="Hardik's Firebase" width="28px" src="./pngs/firebase.png" />
+<img src="https://img.icons8.com/color/512/firebase.png"/>
 <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
 <img src="https://img.icons8.com/color/64/000000/google-cloud.png"/>
 
