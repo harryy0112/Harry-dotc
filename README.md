@@ -54,7 +54,7 @@
 <h2>⚡ Github Stats :tongue:</h2>
 
 <a href="https://github.com/harryy0112">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Harry-dotc&show_icons=true&theme=nord&line_height=27" alt="Hardik's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=nord&line_height=27" alt="Hardik's github stats"/>
 <br/>
 <br/>
 
