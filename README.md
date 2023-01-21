@@ -66,7 +66,7 @@
 
 <h2>⚡ Top langs 👇</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&langs_count=8)](https://github.com/harryy0112/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&langs_count=8&theme=radical)](https://github.com/harryy0112/github-readme-stats)
 
 <h2> Streaks 👇</h2>
 
