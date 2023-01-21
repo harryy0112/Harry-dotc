@@ -38,17 +38,17 @@
 <br/>
 
 <h2> ✔️ Tools and Techs Used by me 👇</h2>
-<img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="60px"/>
+<img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="40px"/>
 <img src="https://img.icons8.com/color/64/000000/python--v1.png"/>
-<img alt="visual studio code" width="60px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
+<img alt="visual studio code" width="40px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 <img src="https://img.icons8.com/color/64/000000/git.png"/>
-<img alt="html5" width="60px" src="https://img.icons8.com/color/240/000000/html-5.png">
-<img alt="css3" width="60px" src="https://img.icons8.com/color/240/000000/css3.png">
-<img alt="javascript" width="60px" src="https://img.icons8.com/color/240/000000/javascript.png" />
+<img alt="html5" width="40px" src="https://img.icons8.com/color/240/000000/html-5.png">
+<img alt="css3" width="40px" src="https://img.icons8.com/color/240/000000/css3.png">
+<img alt="javascript" width="40px" src="https://img.icons8.com/color/240/000000/javascript.png" />
 <img src="https://img.icons8.com/color/64/000000/typescript.png"/>
 <img src = "https://img.icons8.com/plasticine/2x/react.png" width="60px"/>
-<img alt="Node.js" width="60px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-<img src = "https://img.icons8.com/color/2x/mongodb.png" width="60px"/>
+<img alt="Node.js" width="40px" src="https://img.icons8.com/color/240/000000/nodejs.png">
+<img src = "https://img.icons8.com/color/2x/mongodb.png" width="40px"/>
 <img src="https://img.icons8.com/color/64/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/64/000000/amazon-web-services.png"/>
 <img src="https://img.icons8.com/color/64/000000/google-cloud.png"/>
