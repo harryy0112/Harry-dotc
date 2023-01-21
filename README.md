@@ -20,7 +20,7 @@
 
 <h3>🔭 Have a look at my work 👇</h3>
 <a href="https://github.com/harryy0112">
-  <img alt="Hardik's Github" width="28px" src="./pngs/github.png" />
+  <img alt="Hardik's Github" width="28px" src="https://img.icons8.com/sf-black-filled/64/000000/github.png" />
 </a>
 
 <h3>🌱 Have a look at my coding profiles 👇</h3>
