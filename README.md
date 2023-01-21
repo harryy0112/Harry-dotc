@@ -36,7 +36,7 @@
 <br/>
 
 <h2> ✔️ Tools and Techs Used by me 👇</h2>
-<img align="left" alt="Hardik's C++" width="28px" src="./svgs/c.svg" />
+<img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="60px"/>
  <img src = "https://img.icons8.com/dusk/2x/python.png" width="35px"/>
 <img align="left" alt="Hardik's vs" width="28px" src="./svgs/vs.svg" />
 <img src="https://img.icons8.com/color/64/000000/git.png" width="35px"/>
@@ -60,7 +60,7 @@
 
 <h2>👯 Visitor's count 👇</h2>
 
-<p><img src="https://profile-counter.glitch.me/%7Bharryy0112%7D/count.svg" alt="Hardik's :: Visitor's Count" /></p>
+<p><img src="https://profile-counter.glitch.me/harryy0112/count.svg" alt="Hardik's :: Visitor's Count" /></p>
 
 <h2>⚡ Top langs 👇</h2>
 
