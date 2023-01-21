@@ -68,13 +68,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&langs_count=8&theme=radical)](https://github.com/harryy0112/github-readme-stats)
 
-<h2> Streaks 👇</h2>
+<h2>⚡Streaks 👇</h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=harryy0112&theme=radical)](https://git.io/streak-stats)
 
 <h2>⚡ Github Contributions 👇</h2>
 
-[![Hardik's github activity graph](https://activity-graph.herokuapp.com/graph?username=harryy0112&theme=nord)](https://git.io/harryy0112)
+[![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harryy0112&theme=radical)](https://github.com/harryy0112/github-readme-activity-graph)
 
 <!--
 **harryy0112/harryy0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
