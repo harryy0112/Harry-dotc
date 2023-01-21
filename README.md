@@ -15,7 +15,7 @@
  <a href="https://twitter.com/ItsHardikkA">
   <img alt="Hardik's Twitter" width="25px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" />
 
-[![Gmail Badge](https://img.shields.io/badge/-agarwalhardik562@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwalhardik562@gmail.com)](mailto:agarwalhardik562@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-agarwalhardik562@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwalhardik562@gmail.com)](mailto:agarwalhardik562@gmail.com) -->
 
 
 <h3>🔭 Have a look at my work 👇</h3>
