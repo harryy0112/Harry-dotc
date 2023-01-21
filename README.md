@@ -58,7 +58,7 @@
 <h2>⚡ Github Stats :tongue:</h2>
 
 <a href="https://github.com/harryy0112">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=nord&line_height=27" alt="Hardik's github stats"/>
+ <img align="center" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=radical)" alt="Hardik's github stats"/>
 <br/>
 <br/>
 
@@ -76,7 +76,7 @@
 
 <h2>⚡ Github Contributions 👇</h2>
 
-[![Hardik's github activity graph](https://activity-graph.herokuapp.com/graph?username=harryy0112&theme=nord)](https://git.io/Harry-dotc)
+[![Hardik's github activity graph](https://activity-graph.herokuapp.com/graph?username=harryy0112&theme=nord)](https://git.io/harryy0112)
 
 <!--
 **harryy0112/harryy0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
