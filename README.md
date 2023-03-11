@@ -5,11 +5,7 @@
 <h3>📫 Lets Connect 🤝</h3>
 
 [![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harryy0112)
-
 [![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/x.hardik.xx/)
-
-[![skills](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/harryy0112/)
-
 [![skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ItsHardikkA)
 
 <!-- </a>&nbsp;&nbsp;
