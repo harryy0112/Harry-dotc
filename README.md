@@ -47,9 +47,12 @@
 <img src="https://img.icons8.com/color/45/000000/amazon-web-services.png"/>
 <img src="https://img.icons8.com/color/45/000000/google-cloud.png"/> -->
 
-![skills](https://skillicons.dev/icons?i=cpp,js)
+![skills](https://skillicons.dev/icons?i=cpp,js,python)
+
 ![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)
+
 ![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+
 ![skills](https://skillicons.dev/icons?i=vscode,git,figma,xd)
 
 <br/>
