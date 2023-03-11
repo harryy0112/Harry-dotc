@@ -1,6 +1,5 @@
 <h1 align="center">Hey there, I'm Hardik <img src="./gif/Hi.gif" height="30px" width="30px"></h1>
 <h3 align="center">Developer 👨‍💻 | Programmer 👨‍💻 | Designer 👨‍🎨</h3>
-
 <h3>📫 Lets Connect 🤝</h3>
 
 [![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harryy0112)
@@ -25,11 +24,11 @@
 
 <h2>⚡ Github Stats :tongue:</h2>
 
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=dark&hide_border=true)
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=radical&hide_border=true)
 
 <h2>⚡Streaks 👇</h2>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harryy0112&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harryy0112&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <h2>⚡ Github Contributions 👇</h2>
 
