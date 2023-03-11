@@ -8,15 +8,6 @@
 [![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/x.hardik.xx/)
 [![skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ItsHardikkA)
 
-<!-- </a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/x.hardik.xx/">
-  <img alt="Hardik's Instagram" width="30px" src="https://user-images.githubusercontent.com/57393186/151711168-f5cc60d2-c486-46f1-bc23-c740b719d80d.png" />
-</a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/harryy0112/">
-  <img alt="Hardik's Instagram" width="30px" src="https://user-images.githubusercontent.com/57393186/151711101-1edfbc64-ca2f-456d-aa22-b96e2abb1246.png" />
-</a>&nbsp;&nbsp;
- <a href="https://twitter.com/ItsHardikkA">
-  <img alt="Hardik's Twitter" width="30px" src="https://user-images.githubusercontent.com/60147732/151752017-e83f8422-77ce-447a-a51f-74d676e22c17.png" /> -->
 
 <!-- [![Gmail Badge](https://img.shields.io/badge/-agarwalhardik562@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwalhardik562@gmail.com)](mailto:agarwalhardik562@gmail.com) -->
 
@@ -41,7 +32,7 @@
 <br/> -->
 
 <h2> ✔️ Tools and Techs Used by me 👇</h2>
-<img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="45px"/>
+<!-- <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="45px"/>
 <img src="https://img.icons8.com/color/45/000000/python--v1.png"/>
 <img alt="visual studio code" width="45px" src="https://img.icons8.com/fluent/45/000000/visual-studio-code-2019.png" />
 <img src="https://img.icons8.com/color/45/000000/git.png"/>
@@ -54,7 +45,12 @@
 <img src = "https://img.icons8.com/color/2x/mongodb.png" width="45px"/>
 <img src="https://img.icons8.com/color/45/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/45/000000/amazon-web-services.png"/>
-<img src="https://img.icons8.com/color/45/000000/google-cloud.png"/>
+<img src="https://img.icons8.com/color/45/000000/google-cloud.png"/> -->
+
+![skills](https://skillicons.dev/icons?i=cpp,js)
+![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)
+![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+![skills](https://skillicons.dev/icons?i=vscode,git,figma,xd)
 
 <br/>
   
