@@ -1,74 +1,34 @@
 <!-- ### Hi there 👋 -->
 <h1 align="center">Hey there, I'm Hardik <img src="./gif/Hi.gif" height="30px" width="30px"></h1>
 <h3 align="center">A Passionate Developer 👨‍💻 | Programmer 👨‍💻 | Designer 👨‍🎨</h3>
-<!-- <img src = "./pngs/Banner.png" style="max-width:100%;"/> -->
 <h3>📫 Lets Connect 🤝</h3>
 
 [![skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/harryy0112)
 [![skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/x.hardik.xx/)
 [![skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/ItsHardikkA)
 
-
-<!-- [![Gmail Badge](https://img.shields.io/badge/-agarwalhardik562@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agarwalhardik562@gmail.com)](mailto:agarwalhardik562@gmail.com) -->
-
-
-<!-- <h3>🔭 Have a look at my work 👇</h3>
-<a href="https://github.com/harryy0112">
-  <img alt="Hardik's Github" width="28px" src="https://img.icons8.com/sf-black-filled/64/000000/github.png" />
-</a> -->
-
-<!-- <h3>🌱 Have a look at my coding profiles 👇</h3>
-<a href="https://www.hackerrank.com/harryy_0112">
-  <img align="left" alt="Hardik's Hackerrank" width="28px" src="./svgs/hackerrank.svg" />
-</a>
-<a href="https://www.codechef.com/users/harryy_0112">
-  <img align="left" alt="Hardik's Codechef" width="28px" src="./pngs/codechef.png" />
-</a>
-<a href="https://codeforces.com/profile/Arcturus">
-  <img align="left" alt="Hardik's Codeforces" width="28px" src="./pngs/codeforces.png" />
-</a>
-<a href="https://leetcode.com/harryy_0112/">
-  <img align="left" alt="Hardik's Leetcode" width="28px" src="./pngs/leetCode.png" />
-<br/> -->
-
 <h2> ✔️ Tools and Techs Used by me 👇</h2>
-<!-- <img src = "https://img.icons8.com/color/2x/c-plus-plus-logo.png" width="45px"/>
-<img src="https://img.icons8.com/color/45/000000/python--v1.png"/>
-<img alt="visual studio code" width="45px" src="https://img.icons8.com/fluent/45/000000/visual-studio-code-2019.png" />
-<img src="https://img.icons8.com/color/45/000000/git.png"/>
-<img alt="html5" width="45px" src="https://img.icons8.com/color/45/000000/html-5.png">
-<img alt="css3" width="45px" src="https://img.icons8.com/color/45/000000/css3.png">
-<img alt="javascript" width="45px" src="https://img.icons8.com/color/45/000000/javascript.png" />
-<img src="https://img.icons8.com/color/45/000000/typescript.png"/>
-<img src = "https://img.icons8.com/plasticine/2x/react.png" width="60px"/>
-<img alt="Node.js" width="45px" src="https://img.icons8.com/color/45/000000/nodejs.png">
-<img src = "https://img.icons8.com/color/2x/mongodb.png" width="45px"/>
-<img src="https://img.icons8.com/color/45/000000/firebase.png"/>
-<img src="https://img.icons8.com/color/45/000000/amazon-web-services.png"/>
-<img src="https://img.icons8.com/color/45/000000/google-cloud.png"/> -->
 
 ![skills](https://skillicons.dev/icons?i=cpp,js,python)
+
+![skills](https://skillicons.dev/icons?i=vscode,git,github)
+
+![skills](https://skillicons.dev/icons?i=aws,gcp,ts)
 
 ![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)
 
 ![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
 
-![skills](https://skillicons.dev/icons?i=vscode,git,figma,xd)
-
-<br/>
-  
-<h2>⚡ Github Stats :tongue:</h2>
-
-![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=radical)
-<br/>
-
-<h2>👯 Visitor's count 👇</h2>
-
-<p><img src="https://profile-counter.glitch.me/harryy0112/count.svg" alt="Hardik's :: Visitor's Count" /></p>
+![skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd)
 
 <h2>⚡ Top langs 👇</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&langs_count=8&theme=radical)](https://github.com/harryy0112/github-readme-stats)
+
+<h2>⚡ Github Stats :tongue:</h2>
+
+![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=radical)
+<br/>
 
 <h2>⚡Streaks 👇</h2>
 
@@ -77,19 +37,3 @@
 <h2>⚡ Github Contributions 👇</h2>
 
 [![github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=harryy0112&theme=material-palenight)](https://github.com/harryy0112/github-readme-activity-graph)
-
-<!--
-**harryy0112/harryy0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-
