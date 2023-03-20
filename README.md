@@ -20,7 +20,7 @@
 
 <h2>⚡ Top langs 👇</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&layout=compact&theme=dark&hide_border=true)](https://github.com/prateek18801/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&layout=compact&theme=dark&hide_border=true)](https://github.com/harryy0112/github-readme-stats)
 
 <h2>⚡ Github Stats :tongue:</h2>
 
