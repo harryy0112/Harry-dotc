@@ -14,9 +14,9 @@
 
 ![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)
 
-![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase)
 
-![skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd)
+![skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,figma)
 
 <h2>⚡ Top langs 👇</h2>
 
