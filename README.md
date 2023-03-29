@@ -12,7 +12,7 @@
 
 ![skills](https://skillicons.dev/icons?i=vscode,git,github)
 
-![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)
+![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwindcss)
 
 ![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase)
 
