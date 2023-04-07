@@ -16,7 +16,7 @@
 
 ![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase)
 
-![skills](https://skillicons.dev/icons?i=ae,au,ai,ps,pr,xd,figma)
+![skills](https://skillicons.dev/icons?i=ae,ps,pr,xd,figma)
 
 <h2>⚡ Top langs 👇</h2>
 
