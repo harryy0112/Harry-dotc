@@ -10,7 +10,7 @@ Also skilled in Adobe Creative Cloud.
 Always up for fun & unique projects!
 </p>
 
-<h2> ✔️ Tools and Techs Used by me 👇</h2>
+<h3>Tools and Techs Used by me 👇</h3>
 
 ![skills](https://skillicons.dev/icons?i=cpp,js)
 
@@ -20,7 +20,6 @@ Always up for fun & unique projects!
 
 ![skills](https://skillicons.dev/icons?i=vscode,git,xd,figma)
 
-<h2>⚡ Most Used languages 👇</h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&layout=compact&theme=dark&hide_border=true)](https://github.com/harryy0112/github-readme-stats)
 
