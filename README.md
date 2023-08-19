@@ -13,8 +13,11 @@ Always up for fun & unique projects!
 <h2> ✔️ Tools and Techs Used by me 👇</h2>
 
 ![skills](https://skillicons.dev/icons?i=cpp,js)
+
 ![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)
+
 ![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
+
 ![skills](https://skillicons.dev/icons?i=vscode,git,xd,figma)
 
 <h2>⚡ Most Used languages 👇</h2>
