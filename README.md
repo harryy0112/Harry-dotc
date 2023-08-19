@@ -21,11 +21,7 @@ Always up for fun & unique projects!
 ![skills](https://skillicons.dev/icons?i=vscode,git,xd,figma)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&layout=compact&theme=radical&hide_border=true)](https://github.com/harryy0112/github-readme-stats)  ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=radical&hide_border=true)
-
-<h2>⚡Streaks 👇</h2>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harryy0112&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&layout=compact&theme=radical&hide_border=true)](https://github.com/harryy0112/github-readme-stats)  ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=radical&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=harryy0112&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <h2>⚡ Github Contributions 👇</h2>
 
