@@ -8,6 +8,7 @@ Usually getting my hands dirty with Full Stack Dev.
 Also skilled in Adobe Creative Cloud.
 
 Always up for fun & unique projects!
+
 </p>
 
 <h2>Tech Stack :</h2>
@@ -20,8 +21,7 @@ Always up for fun & unique projects!
 
 ![skills](https://skillicons.dev/icons?i=vscode,git,xd,figma)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&layout=compact&theme=radical&hide_border=true)](https://github.com/harryy0112/github-readme-stats)  ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=radical&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=harryy0112&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&layout=compact&theme=synthwave&hide_border=true)](https://github.com/harryy0112/github-readme-stats) ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=synthwave&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com/?user=harryy0112&theme=synthwave&hide_border=true)](https://git.io/streak-stats)
 
 <h2>Lets Connect :</h2>
 
