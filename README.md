@@ -1,5 +1,4 @@
 <h1 align="center">Hey there, I'm Hardik <img src="./gif/Hi.gif" height="30px" width="30px"></h1>
-<h2 align="center">Full-Stack Developer 👨‍💻 | Competitive-Programmer 👨‍💻 | UI/UX Designer 👨‍🎨</h2>
 
 <p>
 Full stack Developer with a good sense of UI / UX Design. I have a knack for understanding complex problems, carrying the design sense to find simple solutions & the development skills to implement them.
