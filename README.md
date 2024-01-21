@@ -12,13 +12,7 @@ Always up for fun & unique projects!
 
 <h2>Tech Stack :</h2>
 
-![skills](https://skillicons.dev/icons?i=cpp,js)
-
-![skills](https://skillicons.dev/icons?i=react,html,css,bootstrap)
-
-![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)
-
-![skills](https://skillicons.dev/icons?i=vscode,git,xd,figma)
+![skills](https://skillicons.dev/icons?i=cpp,js,react,tailwind,nodejs,express,mongodb,figma)
 
 ![Hardik's GitHub stats](https://github-readme-stats.vercel.app/api?username=harryy0112&show_icons=true&theme=synthwave&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harryy0112&layout=compact&theme=synthwave&hide_border=true)](https://github.com/harryy0112/github-readme-stats)
